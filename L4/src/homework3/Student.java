@@ -1,31 +1,31 @@
 package homework3;
 
-public class Student {
-    private String Name;
-    private String Student_Number;
-    private String Father_Name;
+public class Student <name,student_number,father_name>{
+    private name Name;
+    private student_number Student_Number;
+    private father_name Father_Name;
 
-    public void setName(String name) {
+    public void setName(name name) {
         Name = name;
     }
 
-    public void setStudent_Number(String student_Number) {
+    public void setStudent_Number(student_number student_Number) {
         Student_Number = student_Number;
     }
 
-    public void setFather_Name(String father_Name) {
+    public void setFather_Name(father_name father_Name) {
         Father_Name = father_Name;
     }
 
-    public String getName() {
+    public name getName() {
         return Name;
     }
 
-    public String getStudent_Number() {
+    public student_number getStudent_Number() {
         return Student_Number;
     }
 
-    public String getFather_Name() {
+    public father_name getFather_Name() {
         return Father_Name;
     }
 }
