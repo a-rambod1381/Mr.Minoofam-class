@@ -1,11 +1,7 @@
 package classwork;
 
-public class calculate {
-
-    public class calcPlus{
-        private void calc(){}
-    }
-    public class calcMinus{
-        private void calc(){}
-    }
+public interface calculate {
+    int calcPlus = '+';
+    int calcMinus= '-';
+    int calc(int a, int b);
 }
