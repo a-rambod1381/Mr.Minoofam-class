@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="534058d5-23b3-4512-aff4-cf2983478c1c" name="Changes" comment="" />
+    <list default="true" id="534058d5-23b3-4512-aff4-cf2983478c1c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +11,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="273CRudxkx8NOBi4JvSMiBTySbo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -73,6 +78,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../L7" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -95,6 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648539378776</updated>
       <workItem from="1648539379946" duration="22000" />
+      <workItem from="1651953508345" duration="161000" />
     </task>
     <servers />
   </component>
